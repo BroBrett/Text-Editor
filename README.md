@@ -31,7 +31,7 @@
 
 ## Heroku:
 
-
+https://lit-earth-14879.herokuapp.com/
   
 <br>
 
@@ -50,18 +50,11 @@ Once downloaded, the program will automatically be saved to your desktop with a 
 <br>
   
 
-[Screenshot1](images/screenshot1.png)  "Heroku Website"
+[Screenshot1](images/heroku-screenshot.png)  "Heroku Website"
 
-<img src="images/screenshot1.png">
-
-<br>
-
-[Screenshot2](images/Screenshot2.png)  "Downloaded Application"
-
-<img src="images/Screenshot2.png">
+<img src="images/heroku-screenshot.png">
 
 <br>
-
   
 ## Contributions:
 <br>
@@ -77,4 +70,4 @@ Brett Hockridge
 ## Questions:
   For any questions regarding this application, you may reach me directly at brettstephenhockridge@yahoo.com.
 
-  To view my other applications, please check out my github page [BroBrett](https://github.com/jasonjayoo).
+  To view my other applications, please check out my github page [BroBrett](https://github.com/BroBrett).
