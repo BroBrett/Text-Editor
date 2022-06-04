@@ -1,4 +1,4 @@
-const butInstall = document.getElementById('buttonInstall');
+const butInstall = document.getElementById("buttonInstall");
 
 window.addEventListener("beforeinstallprompt", (event) => {
     event.preventDefault();
